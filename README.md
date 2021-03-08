@@ -1,2 +1,9 @@
 # 2021-1-AS1-LAB1
-Hoja de trabajo 1 - Análisis de Sistemas I - 2021
+
+*Nombre: * Walter Eduardo Vásquez Moya
+*Carnet: * 1290-18-18389
+*Curso: * Análisis de Sistemas I
+*Catedrático: * Josué Barillas
+Plan Diario
+Sección A
+ 
